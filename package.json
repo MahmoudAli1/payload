@@ -114,7 +114,7 @@
     "flatley": "^5.2.0",
     "fs-extra": "^10.1.0",
     "get-tsconfig": "^4.4.0",
-    "graphql": "^16.6.0",
+    "graphql": "^15.8.0",
     "graphql-playground-middleware-express": "^1.7.23",
     "graphql-query-complexity": "^0.12.0",
     "graphql-scalars": "^1.20.1",
